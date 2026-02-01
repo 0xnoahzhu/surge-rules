@@ -3,4 +3,4 @@ USER-AGENT,WeChat*
 PROCESS-NAME,WeChat
 
 # Steam
-DOMAIN-SUFFIX,steamserver.net,DIRECT
+DOMAIN-SUFFIX,steamserver.net
