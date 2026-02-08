@@ -9,3 +9,6 @@ DOMAIN-SUFFIX,steamserver.net
 DOMAIN,bochk02.etdsinfo.com
 DOMAIN,bochk02.etnet.com.hk
 DOMAIN-SUFFIX,bochk.com
+
+# HSBC HK
+DOMAIN-SUFFIX,hsbc.com.hk
