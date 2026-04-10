@@ -5,6 +5,8 @@ PROCESS-NAME,WeChat
 # Steam
 DOMAIN-SUFFIX,steamserver.net
 
+DOMAIN-SUFFIX,seagm.com
+
 # BoC HK
 DOMAIN,bochk02.etdsinfo.com
 DOMAIN,bochk02.etnet.com.hk
