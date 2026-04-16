@@ -1,5 +1,12 @@
 DOMAIN-KEYWORD,linkedin
-DOMAIN-KEYWORD,minecraft
+DOMAIN-SUFFIX,recaptcha.net
 DOMAIN-SUFFIX,launchdarkly.com
 DOMAIN-SUFFIX,fpjs.io
 DOMAIN-SUFFIX,recaptcha.net
+
+# IBKR
+DOMAIN-KEYWORD,interactivebrokers
+DOMAIN-SUFFIX,ibllc-us.com
+DOMAIN-SUFFIX,ibkrguides.com
+DOMAIN-SUFFIX,ibkr.info
+DOMAIN-SUFFIX,ibkr.com
