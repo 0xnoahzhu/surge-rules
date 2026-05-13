@@ -17,3 +17,8 @@ DOMAIN-KEYWORD,hsbc
 
 # Others
 DOMAIN-KEYWORD,linuxdo
+
+# FSMOne
+DOMAIN-SUFFIX,fundsupermart.com.hk
+DOMAIN-SUFFIX,fsmone.com.hk
+DOMAIN-SUFFIX,msftncsi.com
