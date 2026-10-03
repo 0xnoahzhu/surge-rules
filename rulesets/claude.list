@@ -3,7 +3,11 @@ DOMAIN,servd-anthropic-website.b-cdn.net
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claudeusercontent.com
 DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,clau.de
+DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,claudemcpclient.com
+DOMAIN-SUFFIX,claudemcpcontent.com
 DOMAIN-SUFFIX,turnstile.com
 DOMAIN-SUFFIX,cf-challenge.com
 DOMAIN-SUFFIX,challenge.cloudflare.com
@@ -14,3 +18,4 @@ DOMAIN-SUFFIX,honeycomb.io
 IP-CIDR,104.16.0.0/12
 IP-CIDR,172.64.0.0/13
 IP-CIDR,188.114.96.0/20
+IP-CIDR,160.79.104.0/21
