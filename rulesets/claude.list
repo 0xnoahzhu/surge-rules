@@ -1,5 +1,6 @@
 DOMAIN,cdn.usefathom.com
 DOMAIN,cloudflare-dns.com
+DOMAIN,dns.google
 DOMAIN,servd-anthropic-website.b-cdn.net
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claudeusercontent.com
