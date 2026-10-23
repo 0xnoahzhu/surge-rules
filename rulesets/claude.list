@@ -2,6 +2,8 @@ DOMAIN,cdn.usefathom.com
 DOMAIN,cloudflare-dns.com
 DOMAIN,dns.google
 DOMAIN,servd-anthropic-website.b-cdn.net
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claudeusercontent.com
 DOMAIN-SUFFIX,claude.ai
@@ -21,9 +23,10 @@ DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,intercomcdn.com
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,statsigapi.net
-DOMAIN,browser-intake-us5-datadoghq.com
+DOMAIN-SUFFIX,datadoghq.com
 DOMAIN-SUFFIX,sift.com
 DOMAIN-SUFFIX,siftscience.com
+DOMAIN-KEYWORD,datadoghq
 DOMAIN-KEYWORD,claude
 IP-CIDR,104.16.0.0/12
 IP-CIDR,172.64.0.0/13

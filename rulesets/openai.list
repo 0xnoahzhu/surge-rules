@@ -3,6 +3,7 @@ DOMAIN,static.cloudflareinsights.com
 DOMAIN,gateway.ai.cloudflare.com
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,gvt1.com
 DOMAIN-SUFFIX,algolia.net
 DOMAIN-SUFFIX,api.statsig.com
 DOMAIN-SUFFIX,auth0.com

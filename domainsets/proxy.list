@@ -134,7 +134,6 @@ developer.microsoft.com
 developers.facebook.com
 dfp6rglgjqszk.cloudfront.net
 dgeft87wbj63p.cloudfront.net
-discord-attachments-uploads-prd.storage.googleapis.com
 dl.begellhouse.com
 dlgarenanow-a.akamaihd.net
 dlmobilegarena-a.akamaihd.net
@@ -170,17 +169,6 @@ fandom.zendesk.com
 faronics.kayako.com
 fbcdn-a.akamaihd.net
 firebase.google.com
-firebase.googleapis.com
-firebaseappcheck.googleapis.com
-firebasedynamiclinks-ipv4.googleapis.com
-firebasedynamiclinks-ipv6.googleapis.com
-firebasedynamiclinks.googleapis.com
-firebaseinappmessaging.googleapis.com
-firebaseinstallations.googleapis.com
-firebaselogging-pa.googleapis.com
-firebaselogging.googleapis.com
-firebaseperusertopics-pa.googleapis.com
-firebaseremoteconfig.googleapis.com
 firstsearch.oclc.org
 flightsimulator.azureedge.net
 fontshop-prod-responsive-images.s3.amazonaws.com
@@ -299,13 +287,11 @@ practivate.adobe.ipp
 practivate.adobe.newoa
 practivate.adobe.ntp
 prd-priconne-redive.akamaized.net
-preprod-publicca.googleapis.com
 prodforza.blob.core.windows.net
 production-openaicom-storage.azureedge.net
 psg-int-centralus.cloudapp.net
 psg-int-eastus.cloudapp.net
 public-us-pingsx.api.clonoth.com
-publicca.googleapis.com
 push-apple.com.akadns.net
 pvr-hamivideo.cdn.hinet.net
 qualcomm.sc.omtrdc.net
@@ -10908,7 +10894,6 @@ zeenews-fonts.s3.amazonaws.com
 .googleanalytics.com
 .googleapis-cn.com
 .googleapis.cn
-.googleapis.com
 .googleapps-cn.com
 .googleapps.com
 .googlearth.com
