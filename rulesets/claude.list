@@ -3,6 +3,7 @@ DOMAIN,cloudflare-dns.com
 DOMAIN,dns.google
 DOMAIN,servd-anthropic-website.b-cdn.net
 DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claudeusercontent.com
@@ -27,6 +28,8 @@ DOMAIN-SUFFIX,datadoghq.com
 DOMAIN-SUFFIX,sift.com
 DOMAIN-SUFFIX,siftscience.com
 DOMAIN-KEYWORD,datadoghq
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,stripe.network
 DOMAIN-KEYWORD,claude
 IP-CIDR,104.16.0.0/12
 IP-CIDR,172.64.0.0/13
