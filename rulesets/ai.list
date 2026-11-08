@@ -33,6 +33,8 @@ DOMAIN-SUFFIX,stripe.network
 DOMAIN-KEYWORD,claude
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,gvt1.com
 DOMAIN-SUFFIX,algolia.net
 DOMAIN-SUFFIX,api.statsig.com
